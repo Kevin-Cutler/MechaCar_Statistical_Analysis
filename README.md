@@ -36,11 +36,11 @@ __________________________________
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Based on the results from our analysis vehicle_length & ground_clearance provide a non-random amount of variance to the mpg values in the dataset
+     Based on the results from our analysis vehicle_length & ground_clearance provide a non-random amount of variance to the mpg values in the dataset
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
-From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of the variablilty of our dependent variable (mpg predictions) is explained using this linear model. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
+     From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of the variablilty of our dependent variable (mpg predictions) is explained        using this linear model. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not          zero.
 
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
