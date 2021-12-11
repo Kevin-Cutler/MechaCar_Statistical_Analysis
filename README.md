@@ -16,7 +16,6 @@ __________________________
 ## Linear Regression to Predict MPG
 _____________________________________________
 
-In this analysis I performed a multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 
 * Formula used to create the linear model: 
 
@@ -29,6 +28,19 @@ In this analysis I performed a multiple linear regression analysis to identify w
            summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data=MechaCar_table)) #summarize linear model
 
 <img width="658" alt="RSquared_and_PValue" src="https://user-images.githubusercontent.com/88467263/145693952-b6cd8fba-74dd-40e9-99a8-4e7606089fc1.PNG">
+
+* In this analysis I performed a multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
+
+Questions and Findings:
+__________________________________
+
+1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+
+2. Is the slope of the linear model considered to be zero? Why or why not?
+
+
+3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
 
