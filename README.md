@@ -45,7 +45,7 @@ __________________________________
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-     From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of the variablilty of our dependent variable (mpg predictions) is explained        using this linear model. 
+     From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of the variablilty of our dependent variable (mpg predictions) is explained        using this linear model and providing evidence of a strong correlation. 
 
 
 
