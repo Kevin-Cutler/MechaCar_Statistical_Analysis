@@ -31,7 +31,7 @@ _____________________________________________
 
 * In this analysis I performed a multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 
-Questions and Findings:
+## Questions and Findings:
 __________________________________
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
