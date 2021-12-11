@@ -3,18 +3,15 @@
 # Overview of Project
 ______________________________________________
 
-In this challenge project I will work with Jeremy and provide my expertise as a data analyst to solve a problem for his employer AuosRUs'. Jeremy was approached by his upper management for a special project and because of his 10 years of experience they feel he has the knowledge to support this emergent task. AutosRUs' has a new prototype known as the MechaCar but there is a problem. The prototype is experiecning troubles in production that have put a hold on the manufacturing teams timeline.
+In this challenge project I will work with Jeremy and provide my expertise as a data analyst to solve a problem for his employer AuosRUs'. Jeremy was approached by his upper management for a special project and because of his 10 years of experience they feel he has the knowledge to support this emergent task. AutosRUs' has a new prototype known as the MechaCar but there is a problem. The prototype is experiecning troubles in production that have put a hold on the manufacturing teams timeline. Jeremys upper management has called on the analytics team to run some statistical test to help them  make informed decsisions. With time on the line and a struggle to meet timelines Jeremy has reached out to me for some much needed assitance.
 
+## Our Task: 
+__________________________
 
-using statistics to make informed decsisions 
- AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
-
-## Task: 
-* Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+* Perform multiple linear regression analysis to identify which componets of the vehicle in our dataset determine the mpg of MechaCar prototypes
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
-
+* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
 ## Linear Regression to Predict MPG
 _____________________________________________
