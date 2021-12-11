@@ -48,5 +48,7 @@ __________________________________
      From our linear regression model, the r-squared value is 0.7149, which means that roughly 71% of the variablilty of our dependent variable (mpg predictions) is explained        using this linear model and providing evidence of a strong correlation. 
 
 
+## Summary Statistics on Suspension Coils
+
 
 
