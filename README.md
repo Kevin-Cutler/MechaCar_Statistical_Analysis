@@ -90,15 +90,27 @@ Assuming our significance level was the common 0.05 percent, our p-value which i
 
 ### T-Test for Lot1
 
+* Lot1 Formula 
+
+t.test(subset(suspension_coil$PSI, suspension_coil$Manufacturing_Lot=='Lot1'), mu=1500)
+
 <img width="750" alt="Lot_1" src="https://user-images.githubusercontent.com/88467263/145726625-11c3158b-a497-435d-8b69-9045bf973968.PNG">
 
 
 ### T-Test for Lot2
 
+* Lot2 Formula 
+
+t.test(subset(suspension_coil$PSI, suspension_coil$Manufacturing_Lot=='Lot2'), mu=1500)
+
 <img width="750" alt="Lot_2" src="https://user-images.githubusercontent.com/88467263/145726676-97c50776-5890-4f76-bc78-e0abe25a04a0.PNG">
 
 
 ### T-Test for Lot3
+
+* Lot3 Formula 
+
+t.test(subset(suspension_coil$PSI, suspension_coil$Manufacturing_Lot=='Lot3'), mu=1500)
 
 <img width="750" alt="Lot_3" src="https://user-images.githubusercontent.com/88467263/145726741-39400f32-7854-41f4-b68e-f23b3c0c7547.PNG">
 
