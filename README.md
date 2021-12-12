@@ -75,10 +75,14 @@ _______________________________________
 ## T-Tests on Suspension Coils
 _________________________________________________
 
+<img width="334" alt="One_Sample_T_Test" src="https://user-images.githubusercontent.com/88467263/145726185-76fdc6c4-d315-4ef9-8921-0e164c7ca607.PNG">
 
 
+### Task:
+* Write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
-
+### Findings:
+Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 
 
