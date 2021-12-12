@@ -75,7 +75,7 @@ _______________________________________
 ## T-Tests on Suspension Coils
 _________________________________________________
 
-<img width="334" alt="One_Sample_T_Test" src="https://user-images.githubusercontent.com/88467263/145726185-76fdc6c4-d315-4ef9-8921-0e164c7ca607.PNG">
+<img width="850" alt="One_Sample_T_Test" src="https://user-images.githubusercontent.com/88467263/145726185-76fdc6c4-d315-4ef9-8921-0e164c7ca607.PNG">
 
 
 ### Task:
