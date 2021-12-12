@@ -131,6 +131,6 @@ Ha : There is a statistical difference between the safety rating for MechaCar co
 
 ## Statistical test to use to test the hypothesis? And why?
 
-For this analysis I would use a one-sample t-test to assert the similarities or differences in our data.
+For this analysis I would use a two-sample t-test to assert the similarities or differences in the mean of our data with observations amongst the MechaCar against competitors.
 
 ## Data is needed to run the statistical test?
