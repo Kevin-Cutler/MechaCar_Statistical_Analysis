@@ -134,3 +134,5 @@ Final analysis will be a statistical study that can quantify how the MechaCar pe
 For this analysis I would use a two-sample t-test to assert the similarities or differences in the mean of our data with observations amongst the MechaCar against competitors.
 
 ## Data is needed to run the statistical test?
+
+To perform my analysis I would obtain data for safety rating for MechaCar as well as safety rating for competitors. I believe we would include the material used to build the vehicles as well as the safety features included in the vehicles to support our analysis.
