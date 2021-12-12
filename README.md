@@ -106,7 +106,7 @@ t.test(subset(suspension_coil$PSI, suspension_coil$Manufacturing_Lot=='Lot2'), m
 
 <img width="750" alt="Lot_2" src="https://user-images.githubusercontent.com/88467263/145726676-97c50776-5890-4f76-bc78-e0abe25a04a0.PNG">
 
-Assuming our significance level was the common 0.05 percent, our p-value which is 0.06 is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically simil
+Assuming our significance level was the common 0.05 percent, our p-value which is 0.6 is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically simil
 
 ### T-Test for Lot3
 
