@@ -118,7 +118,7 @@ t.test(subset(suspension_coil$PSI, suspension_coil$Manufacturing_Lot=='Lot3'), m
 
 * Assuming our significance level was the common 0.05 percent, our p-value which is 0.04 is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
-## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition metrics to test
 ______________________________________________________
 
 
@@ -129,8 +129,6 @@ Final analysis will be a statistical study that can quantify how the MechaCar pe
 H0 : There is no statistical difference between the safety rating for MechaCar compared to its competitors.
 Ha : There is a statistical difference between the safety rating for MechaCar compared to its competitors
 
+## Statistical test would you use to test the hypothesis? And why?
 
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+## Data is needed to run the statistical test?
