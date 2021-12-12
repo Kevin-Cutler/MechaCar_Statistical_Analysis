@@ -124,7 +124,11 @@ ______________________________________________________
 
 Final analysis will be a statistical study that can quantify how the MechaCar performs against the competition. For our data to be analyzed We will focus on metrics that would be of interest to a consumer. Our analysis will include items like cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-Hypotheisi
+### Hypotheisis
+
+H0 : There is no statistical difference between the safety rating for MechaCar compared to its competitors.
+Ha : There is a statistical difference between the safety rating for MechaCar compared to its competitors
+
 
 What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
