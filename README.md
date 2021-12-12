@@ -77,8 +77,8 @@ _________________________________________________
 
 <img width="850" alt="One_Sample_T_Test" src="https://user-images.githubusercontent.com/88467263/145726185-76fdc6c4-d315-4ef9-8921-0e164c7ca607.PNG">
 
-* Formula used to create the linear model: 
-                                            t.test(suspension_coil$PSI, mu=1500)
+#### Formula used in analysis of the difference betweeen manufacturing lots and each lot with respect to population mean of 1,500 pounds per square inch : 
+* t.test(suspension_coil$PSI, mu=1500)
 
 ### Task:
 * Write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
