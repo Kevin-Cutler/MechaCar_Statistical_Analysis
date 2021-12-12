@@ -75,6 +75,8 @@ _______________________________________
 ## T-Tests on Suspension Coils
 _________________________________________________
 
+### T-Test for All Manufacturing Lots
+
 <img width="850" alt="One_Sample_T_Test" src="https://user-images.githubusercontent.com/88467263/145726185-76fdc6c4-d315-4ef9-8921-0e164c7ca607.PNG">
 
 #### Formula used in analysis of the difference betweeen manufacturing lots and each lot with respect to population mean of 1,500 pounds per square inch : 
@@ -86,7 +88,11 @@ _________________________________________________
 ### Findings:
 Assuming our significance level was the common 0.05 percent, our p-value which is 0.06  is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
+### T-Test for Lot1
 
+### T-Test for Lot2
+
+### T-Test for Lot3
 
 ## Study Design: MechaCar vs Competition
 ______________________________________________________
