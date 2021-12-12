@@ -53,6 +53,9 @@ __________________________________
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using your knowledge of R, you’ll create a summary statistics table to show:
 
 * The suspension coil’s PSI continuous variable across all manufacturing lots
+
+<img width="311" alt="PSI_Summary" src="https://user-images.githubusercontent.com/88467263/145695891-debf6ea4-7dff-47a9-bd1c-0412c6c8ae82.PNG">
+
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 
