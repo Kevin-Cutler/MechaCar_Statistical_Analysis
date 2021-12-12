@@ -16,6 +16,7 @@ __________________________
 ## Linear Regression to Predict MPG
 _____________________________________________
 
+* In this analysis I performed a multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 
 * Formula used to create the linear model: 
 
@@ -29,7 +30,7 @@ _____________________________________________
 
 <img width="1000" alt="RSquared_and_PValue" src="https://user-images.githubusercontent.com/88467263/145693952-b6cd8fba-74dd-40e9-99a8-4e7606089fc1.PNG">
 
-* In this analysis I performed a multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
+
 
 ## Questions and Findings:
 __________________________________
