@@ -95,6 +95,9 @@ Assuming our significance level was the common 0.05 percent, our p-value which i
 
 ### T-Test for Lot2
 
+<img width="510" alt="Lot_2" src="https://user-images.githubusercontent.com/88467263/145726676-97c50776-5890-4f76-bc78-e0abe25a04a0.PNG">
+
+
 ### T-Test for Lot3
 
 ## Study Design: MechaCar vs Competition
