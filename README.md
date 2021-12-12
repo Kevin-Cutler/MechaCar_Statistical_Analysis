@@ -90,12 +90,12 @@ Assuming our significance level was the common 0.05 percent, our p-value which i
 
 ### T-Test for Lot1
 
-<img width="465" alt="Lot_1" src="https://user-images.githubusercontent.com/88467263/145726625-11c3158b-a497-435d-8b69-9045bf973968.PNG">
+<img width="750" alt="Lot_1" src="https://user-images.githubusercontent.com/88467263/145726625-11c3158b-a497-435d-8b69-9045bf973968.PNG">
 
 
 ### T-Test for Lot2
 
-<img width="510" alt="Lot_2" src="https://user-images.githubusercontent.com/88467263/145726676-97c50776-5890-4f76-bc78-e0abe25a04a0.PNG">
+<img width="750" alt="Lot_2" src="https://user-images.githubusercontent.com/88467263/145726676-97c50776-5890-4f76-bc78-e0abe25a04a0.PNG">
 
 
 ### T-Test for Lot3
