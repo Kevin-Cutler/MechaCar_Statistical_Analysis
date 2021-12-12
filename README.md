@@ -54,7 +54,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 ### Total_Summary
 
-<img width="311" alt="PSI_Summary" src="https://user-images.githubusercontent.com/88467263/145695891-debf6ea4-7dff-47a9-bd1c-0412c6c8ae82.PNG">
+<img width="600" alt="PSI_Summary" src="https://user-images.githubusercontent.com/88467263/145695891-debf6ea4-7dff-47a9-bd1c-0412c6c8ae82.PNG">
 
 
 * The suspension coil’s PSI continuous variable across all manufacturing lots
