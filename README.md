@@ -122,13 +122,9 @@ t.test(subset(suspension_coil$PSI, suspension_coil$Manufacturing_Lot=='Lot3'), m
 ______________________________________________________
 
 
+Final analysis will be a statistical study that can quantify how the MechaCar performs against the competition. For our data to be analyzed We will focus on metrics that would be of interest to a consumer. Our analysis will include items like cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-
-
-
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-In your description, address the following questions:
+Hypotheisi
 
 What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
