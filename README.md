@@ -126,8 +126,8 @@ Final analysis will be a statistical study that can quantify how the MechaCar pe
 
 ### Hypotheisis
 
-H0 : There is no statistical difference between the safety rating for MechaCar compared to its competitors.
-Ha : There is a statistical difference between the safety rating for MechaCar compared to its competitors
+#### H0 : There is no statistical difference between the safety rating for MechaCar compared to its competitors.
+#### Ha : There is a statistical difference between the safety rating for MechaCar compared to its competitors.
 
 ## Statistical test to use to test the hypothesis? And why?
 
