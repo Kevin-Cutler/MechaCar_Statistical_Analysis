@@ -90,6 +90,9 @@ Assuming our significance level was the common 0.05 percent, our p-value which i
 
 ### T-Test for Lot1
 
+<img width="465" alt="Lot_1" src="https://user-images.githubusercontent.com/88467263/145726625-11c3158b-a497-435d-8b69-9045bf973968.PNG">
+
+
 ### T-Test for Lot2
 
 ### T-Test for Lot3
